@@ -1,0 +1,2 @@
+#define TColor_VERSION_MAJOR @TColor_VERSION_MAJOR@
+#define TColor_VERSION_MINOR @TColor_VERSION_MINOR@
