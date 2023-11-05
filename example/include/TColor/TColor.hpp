@@ -1,9 +1,9 @@
 #ifndef __TCOLOR_COLORS__
 #define __TCOLOR_COLORS__
 
-    #include <iostream>
     #include <string>
-
+    #include <iostream>
+    
     namespace TColor{
         const std::string BLACK = "\033[30m";
         const std::string RED = "\033[31m";
@@ -31,6 +31,10 @@
         void write_endl(const std::string& color, const T& value) {
             write(color, value);
             std::cout << std::endl;
+        }
+
+        void set_color(const std::string &color){
+            std::cout << color;
         }
     }
 #endif
