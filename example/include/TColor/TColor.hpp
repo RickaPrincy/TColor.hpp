@@ -23,17 +23,17 @@
         const std::string B_WHITE = "\033[1;37m";
 
         template<typename T>
-        void write(const std::string& color, const T& value) {
+        inline void write(const std::string& color, const T& value) {
             std::cout << color << value;
         }
 
         template<typename T>
-        void write_endl(const std::string& color, const T& value) {
+        inline void write_endl(const std::string& color, const T& value) {
             write(color, value);
             std::cout << std::endl;
         }
 
-        void set_color(const std::string &color){
+        inline void set_color(const std::string &color){
             std::cout << color;
         }
     }
