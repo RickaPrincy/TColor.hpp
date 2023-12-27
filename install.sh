@@ -1,6 +1,6 @@
 #! /bin/bash
 git clone https://github.com/RickaPrincy/TColor.hpp.git
-cd TColor
+cd TColor.hpp
 mkdir build
 cd build
 cmake ..

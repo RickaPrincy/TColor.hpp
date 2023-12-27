@@ -1,11 +1,11 @@
 # Maintainer: RickaPrincy <rckprincy@gmail.com>
 
-pkgname=TColor
+pkgname=tcolor
 pkgver=1.0.0
 pkgrel=1
-pkgdesc="TColor is a simple header file that provides you with options to print text in color within the terminal"
+pkgdesc="tcolor is a simple header file that provides you with options to print text in color within the terminal"
 arch=('any')
-url="https://github.com/RickaPrincy/TColor"
+url="https://github.com/RickaPrincy/TColor.hpp"
 license=('MIT')
 makedepends=("cmake")
 source=("TColor.tar.gz::https://github.com/RickaPrincy/TColor.hpp/releases/download/v$pkgver/TColor.tar.gz")

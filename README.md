@@ -38,7 +38,7 @@
 
 
 ```bash
-yay -Sy TColor
+yay -Sy tcolor
 ```
 
 or
