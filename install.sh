@@ -7,4 +7,4 @@ cmake ..
 make
 sudo make install
 cd ../..
-rm -rf TColor 
+rm -rf TColor.hpp
