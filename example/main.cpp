@@ -1,4 +1,4 @@
-#include "include/TColor/TColor.hpp"
+#include "../include/TColor/TColor.hpp"
 #include <iostream>
 
 using namespace TColor;

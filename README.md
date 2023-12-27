@@ -33,3 +33,16 @@
         return 0;
     }
 ```
+
+# Install TColor
+
+
+```bash
+yay -Sy TColor
+```
+
+or
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/RickaPrincy/TColor/main/install.sh)
+```
