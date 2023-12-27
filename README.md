@@ -44,5 +44,5 @@ yay -Sy TColor
 or
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/RickaPrincy/TColor/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/RickaPrincy/TColor.hpp/main/install.sh)
 ```

@@ -8,7 +8,7 @@ arch=('any')
 url="https://github.com/RickaPrincy/TColor"
 license=('MIT')
 makedepends=("cmake")
-source=("TColor.tar.gz::https://github.com/RickaPrincy/TColor/releases/download/v$pkgver/TColor.tar.gz")
+source=("TColor.tar.gz::https://github.com/RickaPrincy/TColor.hpp/releases/download/v$pkgver/TColor.tar.gz")
 sha256sums=("697e410c550ee639b28f15ad317fac13198e14a6559df644bffb23b1538d0bec")
 
 build() {

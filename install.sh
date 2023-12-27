@@ -1,5 +1,5 @@
 #! /bin/bash
-git clone https://github.com/RickaPrincy/TColor.git
+git clone https://github.com/RickaPrincy/TColor.hpp.git
 cd TColor
 mkdir build
 cd build
